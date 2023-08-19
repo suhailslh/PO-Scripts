@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<generalQueryRequest>
+    <types xmlns=''>
+        <type id='ifmmessif' />
+    </types>
+    <qc xmlns='' qcType='S' delMode='N' useSyncT='true' clCtxOnly='false'>
+        <clCxt consider='L' />
+        <swcListDef def='W' />
+    </qc>
+    <condition xmlns=''>
+        <complex />
+    </condition>
+    <result xmlns=''>
+        <attrib>RA_XILINK</attrib>
+    </result>
+</generalQueryRequest>

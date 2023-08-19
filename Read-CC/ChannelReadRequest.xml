@@ -1,0 +1,5 @@
+<urn1:CommunicationChannelID>
+    <urn1:PartyID>{{PartyID}}</urn1:PartyID>
+    <urn1:ComponentID>{{ComponentID}}</urn1:ComponentID>
+    <urn1:ChannelID>{{ChannelID}}</urn1:ChannelID>
+</urn1:CommunicationChannelID>
